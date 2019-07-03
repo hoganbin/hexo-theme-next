@@ -31,7 +31,7 @@ Simplest way to install is by cloning the entire repository:
 
    ```sh
    $ cd hexo
-   $ git clone https://github.com/theme-next/hexo-theme-next themes/next
+   $ git clone git@github.com:hoganbin/hexo-theme-next themes/next
    ```
 
 Or you can see [detailed installation instructions][docs-installation-url] if you want any other variant.
